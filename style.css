@@ -1,0 +1,19 @@
+body{
+    background-color: pink;
+
+}
+
+p{
+    color: white;
+}
+b{
+    color: yellow;
+}
+label{
+    color: white;
+}
+.heading{
+    padding-left: 200px;
+    padding-right: 200px;
+    font-size: 25;
+}
